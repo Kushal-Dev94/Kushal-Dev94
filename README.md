@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **Godot**
 
-- 📫 How to reach me **kushalkishor31@gmail.com**
+- 📫 How to reach me **Email: kushalkishor31@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Kushal-Dev94/KushalResume](https://github.com/Kushal-Dev94/KushalResume)
+- 📄 Know about my experiences: **Resume:** [https://github.com/Kushal-Dev94/KushalResume](https://github.com/Kushal-Dev94/KushalResume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
