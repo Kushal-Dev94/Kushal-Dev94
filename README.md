@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Campus Connect](https://github.com/Kushal-Dev94/CampusConnect)
 
-- 🌱 I’m currently learning **Basic Webdev, Godot, Unity, Unreal, Blender**
+- 🌱 I’m currently learning **Basic Front and Back End Web dev. , Godot Game Engine, Blender**
 
 - 💬 Ask me about **Godot**
 
