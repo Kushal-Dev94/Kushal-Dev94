@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kushal Shankhapal</h1>
 <h3 align="center">A passionate Web and Game developer</h3>
 
-- 🔭 I’m currently working on [Campus Connect]([https://github.com/Kushal-Dev94/CampusConnect](https://github.com/CampusConnectPBL/CampusConnect2))
+- 🔭 I’m currently working on [Campus Connect](https://github.com/CampusConnectPBL/CampusConnect2)
 
 - 🌱 I’m currently learning **Basic Front and Back End Web dev. , Godot Game Engine, Blender**
 
